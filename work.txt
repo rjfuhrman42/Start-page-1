@@ -1,0 +1,8 @@
+=======================================
+THINGS TO ADD ON/WORK ON FOR THE FUTURE
+=======================================
+- fiddle with div element more
+- remove table element and replace with list or block
+- learn JavaScript or something
+- add script to change picture to a random new one every 10 secs ~~
+- add drop down menu or some other kind of animated menu

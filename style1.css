@@ -1,0 +1,113 @@
+*{
+}
+
+body{
+  background-color: #000;
+  background-image: url("https://i.imgur.com/qMKxDU2.jpg");
+  background-size: 1920px 1080px;
+  margin: 0px;
+}
+
+div.header{
+	font-family:'Merriweather', serif;
+	color: white;
+	padding-bottom: 25px;
+	animation-name: fadeIn;
+	animation-duration: 2s;
+	text-align:center;
+	font-size:150%;
+}
+
+img{
+	padding: 10px;
+	width: 90%;
+	height: 410px;
+}
+
+th{
+		font-family:'Ubuntu', monospace;
+		background-color: #151618;
+		animation-name: fadeIn;
+		animation-duration: 2s;
+		text-align: center;
+		padding: 25px;
+		color: white;
+}
+
+.content{
+		font-family:'Ubuntu', monospace;
+		background-color: #333130;
+		animation-name: fadeIn;
+		display: block;
+		animation-duration: 2s;
+		text-align: center;
+		padding: 10px;
+		color: white;
+}
+a:link {
+		color: grey;
+		text-decoration: none;
+}
+
+a:visited {
+		color: grey;
+		text-decoration; none;
+}
+
+a:hover{
+		color: grey;
+		background-color: #000000; 
+		text-decoration: none;
+}
+
+div.box{
+	width: 20%;
+	height: 430px;
+	background-color: #151618;
+	position: fixed;
+	animation-name: fadeIn;
+	animation-duration: 2s;
+	left: 768px;
+	top: 280px;
+}
+
+div.picture{
+	width: 290px;
+	height: 400px;
+	background-image: url("https://i.imgur.com/OLKQ1pD.png");
+	background-size: cover;
+	position: absolute;
+	animation-name: fadeIn;
+	animation-duration: 2s;
+	left: 1287px;
+	top: 165px;
+}
+
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 5px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.alignment{
+		/* margin: 0px auto; <!-- centers the table-->
+		width: 1273px; */
+		margin: auto;
+		width: 20%;
+}
+
+li {
+  display: inline;
+  padding: 0 5px;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }

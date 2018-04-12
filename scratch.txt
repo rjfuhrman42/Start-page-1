@@ -1,0 +1,31 @@
+  <table id="stuff" cellspacing="0">
+	  <tr>
+	    <th>School</th>
+	    <th>Fun & Games</th>
+	    <th>Food</th>
+	    <th>reference</th>
+	  </tr>
+	  <tr>
+	    <td> <a href="https://elearn.tntech.edu/d2l/login" target="_blank";>ILearn</a></td>
+	    <td> <a href="https://www.youtube.com/">youtube</a></td>
+	    <td> <a href="https://www.budgetbytes.com/">cheap recipes</a></td>
+	    <td> <a href="https://www.w3schools.com/html/">html</a></td>
+	  </tr>
+	   <tr>
+	    <td> <a href="https://outlook.office.com/owa/">mail</a></td>
+	    <td> <a href="https://www.reddit.com">reddit</a></td>
+	    <td> <a href="https://www.seriouseats.com">seriouseats</a></td>
+	    <td> <a href="https://www.w3schools.com/css/default.asp">css</a></p></td>
+	  </tr>
+	  <tr>
+	    <td> <a href="http://mboshart.dyndns.org/~mboshart/4320examples.html">arch lectures</a></td>
+	    <td> <a href="http://boards.4chan.org/wg/catalog" target="_blank">/wg/</a></td>
+	    <td> <a href="https://www.allrecipes.com">allrecipes</a></td>
+	    <td><p id="jump";><a href=https://mynoise.net/>ambient sounds</a></p></td>
+	  </tr>
+	  <tr>
+	    <td></td>
+		<td><a href="https://www.twitch.tv/">twitch</a></td>
+	    <td></td>
+	    <td></td>
+  </table>
